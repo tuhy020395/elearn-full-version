@@ -1,9 +1,0 @@
-{
-    "version": 3,
-    "mappings": "AAAA,OAAO,CAAP,uGAAO;AACP,AAAA,cAAc,CAAC;EACX,SAAS,EAAE,KAAK,CAAA,UAAU;CAC7B",
-    "sources": [
-        "src/components/TeacherSupportModal.module.scss"
-    ],
-    "names": [],
-    "file": "TeacherSupportModal.module.css"
-}

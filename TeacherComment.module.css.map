@@ -1,9 +1,0 @@
-{
-    "version": 3,
-    "mappings": "AAAA,AAAA,WAAW,CAAC;EACR,OAAO,EAAE,CAAC;EACV,SAAS,EAAE,UAAU;CACtB;;AACH,AAAA,kBAAkB,CAAC;EACnB,OAAO,EAAE,CAAC;EACV,SAAS,EAAE,aAAa;EACxB,UAAU,EAAE,8BAA8B;CACzC;;AACD,AAAA,UAAU,CAAC;EACX,OAAO,EAAE,CAAC;CACT;;AACD,AAAA,iBAAiB,CAAC;EAClB,OAAO,EAAE,CAAC;EACV,SAAS,EAAE,UAAU;EACrB,UAAU,EAAE,8BAA8B;CACzC",
-    "sources": [
-        "src/components/common/TeacherComment/TeacherComment.module.scss"
-    ],
-    "names": [],
-    "file": "TeacherComment.module.css"
-}

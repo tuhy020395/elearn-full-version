@@ -1,9 +1,0 @@
-{
-    "version": 3,
-    "mappings": "",
-    "sources": [
-        "src/lib/ionicons/dist/scss/ionicons-variables.scss"
-    ],
-    "names": [],
-    "file": "ionicons-variables.css"
-}

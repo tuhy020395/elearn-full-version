@@ -1,9 +1,0 @@
-{
-    "version": 3,
-    "mappings": "",
-    "sources": [
-        "src/components/BookedLesson/bookedLesson.module.scss"
-    ],
-    "names": [],
-    "file": "bookedLesson.module.css"
-}
