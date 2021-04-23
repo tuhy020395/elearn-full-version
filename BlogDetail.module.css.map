@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "src/components/BlogDetail/BlogDetail.module.scss"
+    ],
+    "names": [],
+    "file": "BlogDetail.module.css"
+}

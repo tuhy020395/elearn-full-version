@@ -1,0 +1,397 @@
+@charset "UTF-8";
+/*!
+ *  CryptoFont 0.1.1 by @AMPoellmann - http://cryptofont.com
+ *  License - http://cryptofont.com/#license (Font: SIL OFL 1.1, CSS: MIT License)
+ */
+@font-face {
+  font-family: "CryptoFont";
+  src: url("../fonts/cryptofont-webfont.eot?v=0.1.1");
+  src: url("../fonts/cryptofont-webfont.eot?#iefix&v=0.1.1") format("embedded-opentype"), url("../fonts/cryptofont-webfont.woff?v=0.1.1") format("woff2"), url("../fonts/cryptofont-webfont.woff?v=0.1.1") format("woff"), url("../fonts/cryptofont-webfont.ttf?v=0.1.1") format("truetype"), url("../fonts/cryptofont-webfont.svg?v=0.1.1#cryptofont-webfont") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+.cf {
+  display: inline-block;
+  font: normal normal normal 14px/1 "CryptoFont";
+  font-size: inherit;
+  text-rendering: auto;
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.cf-lg {
+  font-size: 1.33333em;
+  line-height: 0.75em;
+  vertical-align: -15%;
+}
+
+.cf-2x {
+  font-size: 2em;
+}
+
+.cf-3x {
+  font-size: 3em;
+}
+
+.cf-4x {
+  font-size: 4em;
+}
+
+.cf-5x {
+  font-size: 5em;
+}
+
+.cf-adc:before {
+  content: "";
+}
+
+.cf-aeon:before {
+  content: "";
+}
+
+.cf-amp:before {
+  content: "";
+}
+
+.cf-anc:before {
+  content: "";
+}
+
+.cf-ardr:before {
+  content: "";
+}
+
+.cf-aur:before {
+  content: "";
+}
+
+.cf-bay:before {
+  content: "";
+}
+
+.cf-bcn:before {
+  content: "";
+}
+
+.cf-brk:before {
+  content: "";
+}
+
+.cf-brx:before {
+  content: "";
+}
+
+.cf-bsd:before {
+  content: "";
+}
+
+.cf-bta:before {
+  content: "";
+}
+
+.cf-btc:before {
+  content: "";
+}
+
+.cf-btc-alt:before {
+  content: "";
+}
+
+.cf-btcd:before {
+  content: "";
+}
+
+.cf-bts:before {
+  content: "";
+}
+
+.cf-clam:before {
+  content: "";
+}
+
+.cf-cloak:before {
+  content: "";
+}
+
+.cf-dash:before {
+  content: "";
+}
+
+.cf-dcr:before {
+  content: "";
+}
+
+.cf-dgb:before {
+  content: "";
+}
+
+.cf-dgd:before {
+  content: "";
+}
+
+.cf-dgx:before {
+  content: "";
+}
+
+.cf-dmd:before {
+  content: "";
+}
+
+.cf-doge:before {
+  content: "";
+}
+
+.cf-emc:before {
+  content: "";
+}
+
+.cf-erc:before {
+  content: "";
+}
+
+.cf-etc:before {
+  content: "";
+}
+
+.cf-eth:before {
+  content: "";
+}
+
+.cf-fct:before {
+  content: "";
+}
+
+.cf-flo:before {
+  content: "";
+}
+
+.cf-frk:before {
+  content: "";
+}
+
+.cf-ftc:before {
+  content: "";
+}
+
+.cf-game:before {
+  content: "";
+}
+
+.cf-gld:before {
+  content: "";
+}
+
+.cf-gnt:before {
+  content: "";
+}
+
+.cf-grc:before {
+  content: "";
+}
+
+.cf-grs:before {
+  content: "";
+}
+
+.cf-heat:before {
+  content: "";
+}
+
+.cf-icn:before {
+  content: "";
+}
+
+.cf-ifc:before {
+  content: "";
+}
+
+.cf-incnt:before {
+  content: "";
+}
+
+.cf-ioc:before {
+  content: "";
+}
+
+.cf-kmd:before {
+  content: "";
+}
+
+.cf-kobo:before {
+  content: "";
+}
+
+.cf-kore:before {
+  content: "";
+}
+
+.cf-lbc:before {
+  content: "";
+}
+
+.cf-ldoge:before {
+  content: "";
+}
+
+.cf-lsk:before {
+  content: "";
+}
+
+.cf-ltc:before {
+  content: "";
+}
+
+.cf-maid:before {
+  content: "";
+}
+
+.cf-mint:before {
+  content: "";
+}
+
+.cf-mona:before {
+  content: "";
+}
+
+.cf-mue:before {
+  content: "";
+}
+
+.cf-neos:before {
+  content: "";
+}
+
+.cf-nlg:before {
+  content: "";
+}
+
+.cf-nmc:before {
+  content: "";
+}
+
+.cf-note:before {
+  content: "";
+}
+
+.cf-nuc:before {
+  content: "";
+}
+
+.cf-nxt:before {
+  content: "";
+}
+
+.cf-ok:before {
+  content: "";
+}
+
+.cf-omni:before {
+  content: "";
+}
+
+.cf-pink:before {
+  content: "";
+}
+
+.cf-pivx:before {
+  content: "";
+}
+
+.cf-pot:before {
+  content: "";
+}
+
+.cf-ppc:before {
+  content: "";
+}
+
+.cf-qrk:before {
+  content: "";
+}
+
+.cf-rby:before {
+  content: "";
+}
+
+.cf-rdd:before {
+  content: "";
+}
+
+.cf-rep:before {
+  content: "";
+}
+
+.cf-rise:before {
+  content: "";
+}
+
+.cf-sjcx:before {
+  content: "";
+}
+
+.cf-sls:before {
+  content: "";
+}
+
+.cf-steem:before {
+  content: "";
+}
+
+.cf-strat:before {
+  content: "";
+}
+
+.cf-sys:before {
+  content: "";
+}
+
+.cf-trig:before {
+  content: "";
+}
+
+.cf-ubq:before {
+  content: "";
+}
+
+.cf-unity:before {
+  content: "";
+}
+
+.cf-usdt:before {
+  content: "";
+}
+
+.cf-vrc:before {
+  content: "";
+}
+
+.cf-vtc:before {
+  content: "";
+}
+
+.cf-waves:before {
+  content: "";
+}
+
+.cf-xcp:before {
+  content: "";
+}
+
+.cf-xem:before {
+  content: "";
+}
+
+.cf-xmr:before {
+  content: "";
+}
+
+.cf-xrp:before {
+  content: "";
+}
+
+.cf-zec:before {
+  content: "";
+}
+/*# sourceMappingURL=cryptofont.css.map */

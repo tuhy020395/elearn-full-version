@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,MAAM,EAAE,SAAS,EAAE,MAAM;EACrB,AAEO,eAFQ,CACX,SAAS,CACN,SAAS,CAAA;IACL,OAAO,EAAE,WAAW;GACvB;;;AAOZ,AAAA,mBAAmB,CAAC,gBAAgB,CAAC,aAAa,CAAA;EAC9C,UAAU,EAAC,CAAC;CACf",
+    "sources": [
+        "src/components/TeacherProfile/ProfileInfor.module.scss"
+    ],
+    "names": [],
+    "file": "ProfileInfor.module.css"
+}

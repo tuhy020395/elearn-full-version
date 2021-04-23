@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,kBAAkB,CAAC;EACf,KAAK,EAAC,IAAI;CACb;;AAED,AAAA,MAAM,CAAC,EAAE,CAAC;EACN,cAAc,EAAE,MAAM,CAAA,UAAU;CACnC",
+    "sources": [
+        "src/components/LessonHistory/lessonHistory.module.scss"
+    ],
+    "names": [],
+    "file": "lessonHistory.module.css"
+}

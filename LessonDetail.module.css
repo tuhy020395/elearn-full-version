@@ -1,0 +1,31 @@
+.rating-stars {
+  position: relative;
+  display: inline-block;
+}
+
+.rating-stars .empty-stars {
+  color: #e1e1e1;
+  white-space: nowrap;
+}
+
+.rating-stars .filled-stars {
+  color: #f9dc5c;
+  position: absolute;
+  left: 0;
+  top: 0;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.rating-stars i {
+  color: inherit;
+}
+
+.review__wrap img {
+  height: auto;
+}
+
+.review__wrap iframe {
+  max-width: 100%;
+}
+/*# sourceMappingURL=LessonDetail.module.css.map */

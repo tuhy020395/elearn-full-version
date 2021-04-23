@@ -1,0 +1,51 @@
+.rating-wrap .rating-stars {
+  position: relative;
+  display: inline-block;
+}
+
+.rating-wrap .rating-stars .empty-stars {
+  color: #e1e1e1;
+  white-space: nowrap;
+}
+
+.rating-wrap .rating-stars .filled-stars {
+  color: #f9dc5c;
+  position: absolute;
+  left: 0;
+  top: 0;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.rating-wrap .rating-stars i {
+  color: inherit;
+}
+
+.readmore {
+  display: inline-block;
+}
+
+.readmore i {
+  padding-left: 0;
+}
+
+.readmore:hover i {
+  animation: wiggle 1s infinite;
+}
+
+@keyframes wiggle {
+  0% {
+    padding-left: 0;
+  }
+  50% {
+    padding-left: 5px;
+  }
+  100% {
+    padding-left: 0;
+  }
+}
+
+.fb-summary .fb-type i.star {
+  color: #fd7e14;
+}
+/*# sourceMappingURL=Feedback.module.css.map */

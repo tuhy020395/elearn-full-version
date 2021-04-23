@@ -1,0 +1,37 @@
+.tc-comment-wrap {
+  border-top: 0;
+}
+
+.tc-comment-wrap .tc-content {
+  flex-grow: 1;
+}
+
+.rating-wrap .rating-stars {
+  position: relative;
+  display: inline-block;
+}
+
+.rating-wrap .rating-stars .empty-stars {
+  color: #e1e1e1;
+  white-space: nowrap;
+}
+
+.rating-wrap .rating-stars .filled-stars {
+  color: #f9dc5c;
+  position: absolute;
+  left: 0;
+  top: 0;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.rating-wrap .rating-stars i {
+  color: inherit;
+}
+
+@media screen and (max-width: 600px) {
+  .fb-item .fb-avatar {
+    margin-right: 10px;
+  }
+}
+/*# sourceMappingURL=StudentCommentItem.module.css.map */

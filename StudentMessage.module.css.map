@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AAEA,AAAA,kBAAkB,CAAC;EACf,OAAO,EAAE,MAAM;CAOlB;;AARD,AAEI,kBAFc,AAEb,IAAK,CAAA,aAAa,EAAE;EACjB,aAAa,EAAE,iBAAiB;CACnC;;AAJL,AAKI,kBALc,AAKb,YAAY,CAAC;EACV,WAAW,EAAE,CAAC;CACjB;;AAEL,AAGY,kBAHM,CACd,kBAAkB,CACd,OAAO,AACF,OAAO,CAAC;EACL,OAAO,EAAE,IAAI;CAChB",
+    "sources": [
+        "src/components/StudentMessage/StudentMessage.module.scss",
+        "src/scss/variable.scss"
+    ],
+    "names": [],
+    "file": "StudentMessage.module.css"
+}
